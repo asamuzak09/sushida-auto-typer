@@ -1,0 +1,22 @@
+# 寿司打自動タイピングツール - 依存ライブラリ
+
+# 画面キャプチャとキーボード操作
+pyautogui>=0.9.53
+
+# 画像処理
+opencv-python>=4.5.0
+numpy>=1.20.0
+Pillow>=8.0.0
+
+# OCR処理
+pytesseract>=0.3.8
+
+# Tesseract OCRのインストールも必要です
+# Windowsの場合: https://github.com/UB-Mannheim/tesseract/wiki
+# macOSの場合: brew install tesseract
+# Linuxの場合: apt-get install tesseract-ocr
+
+# tkinterのインストール方法（システムパッケージ）
+# macOSの場合: brew install python-tk
+# Linuxの場合（Ubuntu/Debian）: sudo apt-get install python3-tk
+# Linuxの場合（Fedora/RHEL/CentOS）: sudo dnf install python3-tkinter

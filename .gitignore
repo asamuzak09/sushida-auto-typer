@@ -1,0 +1,5 @@
+__pycache__/
+.mypy_cache/
+.pytest_cache/
+ocr_images/
+capture_config.json
