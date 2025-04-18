@@ -10,7 +10,7 @@ TEXT_REGION = {
 }
 
 # OCR設定
-OCR_INTERVAL = 0.3  # OCRの実行間隔（秒）- 小さくするほど高速だが負荷が増加
+OCR_INTERVAL = 0.1  # OCRの実行間隔（秒）- 小さくするほど高速だが負荷が増加
 
 # デバッグモード
 DEBUG = True
