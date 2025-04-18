@@ -1,6 +1,6 @@
 # 寿司打自動タイピングツール
 
-寿司打(https://sushida.net/play.html)で表示されるローマ字を自動的に認識し、入力するツールです。
+[寿司打](https://sushida.net/play.html) で表示されるローマ字を自動的に認識し、入力するツールです。
 
 ## 機能
 
@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 ## 使用方法
 
-1. 寿司打のウェブサイト（https://sushida.net/play.html）を開きます
+1. 寿司打のウェブサイト[https://sushida.net/play.html]（https://sushida.net/play.html） を開きます
 2. ゲームを開始し、タイピング画面が表示されるところまで手動で進めます
 3. 以下のコマンドでツールを実行します
 
