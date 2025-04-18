@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 ## 使用方法
 
-1. 寿司打のウェブサイト[https://sushida.net/play.html]（https://sushida.net/play.html） を開きます
+1. 寿司打のウェブサイト [https://sushida.net/play.html](https://sushida.net/play.html) を開きます
 2. ゲームを開始し、タイピング画面が表示されるところまで手動で進めます
 3. 以下のコマンドでツールを実行します
 
